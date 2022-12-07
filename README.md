@@ -10,3 +10,5 @@
 [bài 15](https://codepen.io/nguyenngocxuanquynh/pen/KKemmzo)
 [bài 16](https://codepen.io/nguyenngocxuanquynh/pen/WNyXLOa)
 [bài 17](https://codepen.io/nguyenngocxuanquynh/pen/VwdrqRr)
+##Thực hành
+[Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/old-cdn-lvgorj?file=/src/App.js)
