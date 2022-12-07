@@ -17,3 +17,4 @@
 ##Thực hành
 [Bài thực hành làm quen React và tạo component](https://codesandbox.io/s/old-cdn-lvgorj?file=/src/App.js)
 [Thực hành dùng props và sate](https://codepen.io/nguyenngocxuanquynh/pen/poKGZQW)
+[Bài thực hành số 1](https://codesandbox.io/s/pensive-dan-ucnhjp?file=/src/index.js)
