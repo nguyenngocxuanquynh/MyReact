@@ -27,3 +27,4 @@
 [Thực hành dùng props và sate](https://codepen.io/nguyenngocxuanquynh/pen/poKGZQW)
 [Bài thực hành số 1](https://codesandbox.io/s/pensive-dan-ucnhjp?file=/src/index.js)
 [Bài thực hành số 2](https://codepen.io/nguyenngocxuanquynh/pen/VwdRvrq)
+[Bài thực hành số 3](https://codepen.io/nguyenngocxuanquynh/pen/VwdRvQg)
