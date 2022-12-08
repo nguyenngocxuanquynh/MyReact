@@ -1,6 +1,14 @@
 # MyReact
 #Bài tập môn React
 ##Lý thuyết
+[bài 1](https://codepen.io/nguyenngocxuanquynh/pen/zYabGEq)
+[bài 2](https://codepen.io/nguyenngocxuanquynh/pen/wvXOaPQ)
+[bài 3](https://codepen.io/nguyenngocxuanquynh/pen/ExRMjQg)
+[bài 4](https://codepen.io/nguyenngocxuanquynh/pen/abKMOQJ)
+[bài 5](https://codepen.io/nguyenngocxuanquynh/pen/qBKvdLP)
+[bài 6](https://codepen.io/nguyenngocxuanquynh/pen/gOKEpZQ)
+[bài 7](https://codepen.io/nguyenngocxuanquynh/pen/poKYJYJ)
+[bài 8](https://codepen.io/nguyenngocxuanquynh/pen/abKMvby)
 [bài 9](https://codepen.io/nguyenngocxuanquynh/pen/vYrKmmQ)
 [bài 10](https://codepen.io/nguyenngocxuanquynh/pen/JjZKJEV)
 [bài 11](https://codepen.io/nguyenngocxuanquynh/pen/mdKWvOR)
